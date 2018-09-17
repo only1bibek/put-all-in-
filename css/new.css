@@ -1,0 +1,41 @@
+.wrapper{
+	border: 1px solid black ;
+	width:1060px;
+	height:800px;
+	margin:0 auto;
+}
+.header{
+	border:1px solid black;
+`	height:100px;
+	margin: 30px 100px;
+	background-color:purple;
+	color:white;
+	text-align:center;
+}
+.container{
+	
+	border:1px solid black;
+`	height:100px;
+	margin:200px 100px;
+	background-color:purple;
+	color:white;
+	text-align:center;
+}
+.footer{
+	
+	border:1px solid black;
+`	height:100px;
+	margin: 200px 100px;
+	background-color:purple;
+	color:white;
+	text-align:center;
+
+}
+
+
+
+
+
+
+
+	
